@@ -2,10 +2,7 @@
 
 An **AI-powered Student Stress Analysis System** that predicts student stress levels using **Machine Learning** and provides **personalized AI-based recommendations** through an interactive **Streamlit web application**.
 
----
-## 🖼️ Application Screenshot
-
-<img src="images/app_screenshot.png" width="700">
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Project Overview
 
